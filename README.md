@@ -8,7 +8,7 @@ I am a passionate AI engineer in Vietnam, driven by a curiosity for technology. 
 
 ## 📬 Get in Touch
 
-- Connect with me on [Github](https://)
+- Connect with me on ![foo](https://cdn-icons-png.flaticon.com/512/25/25231.png)[Github](https://)
 - Connect with me on [LinkedIn](https://)
 - Connect with me on [facebook](https://theenthusiast.dev)
 
