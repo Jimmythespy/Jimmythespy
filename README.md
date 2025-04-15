@@ -4,6 +4,9 @@ I am a passionate AI engineer in Vietnam, driven by a curiosity for technology. 
 
 ![Jimmythespy's Stats](https://github-readme-stats.vercel.app/api?username=Jimmythespy&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jimmythespy&" alt="Jimmythespy" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jimmythespy&show_icons=true&locale=en&layout=compact" alt="Jimmythespy" /></p>
+
 ## 📬 Get in Touch
 
 - Connect with me on [Github](https://)
@@ -11,8 +14,6 @@ I am a passionate AI engineer in Vietnam, driven by a curiosity for technology. 
 - Connect with me on [facebook](https://theenthusiast.dev)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
-
-
 
 <!--
 
