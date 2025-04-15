@@ -1,8 +1,8 @@
 # Hi, I'm Tung Anh (Jimmythespy)! 👋
 
-I am a passionate AI engineer in Vietnam, driven by a curiosity for technology. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+I am a passionate AI engineer in Vietnam, driven by a curiosity for technology. My journey involves delving into computer science, exploring new ideas, and sharing my insights with the community.
 
-**Education:** Hanoi University of Science and Technology 
+**Education:** Hanoi University of Science and Technology <br>
 **Major:** Information Systems and Communication
 
 <br>
