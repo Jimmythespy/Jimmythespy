@@ -3,9 +3,11 @@
 I am a passionate AI engineer in Vietnam, driven by a curiosity for technology. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
 **Education:** Hanoi University of Science and Technology 
-
-
 **Major:** Information Systems and Communication
+
+<br>
+<p align="center"><b>Visitor's Count</b></p>
+<p align="center"><img src="https://profile-counter.glitch.me/%7BJimmythespy%7D/count.svg" alt="visitor badge"></p>
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Jimmythespy&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"></div>
 
