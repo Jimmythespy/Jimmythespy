@@ -13,11 +13,10 @@ I am a passionate AI engineer in Vietnam, driven by a curiosity for technology. 
 
 ## 📬 Get in Touch
 
-<div style="text-align: center;">
-  - Connect with me on [Github](https://github.com/) <img src="https://img.icons8.com/?size=100&id=AZOZNnY73haj&format=png&color=000000" alt="Github Icon" style="width: 20px; height: 20px; display: inline-block; vertical-align: middle;">
-  - Connect with me on [LinkedIn](https://linkedin.com/) <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="LinkedIn Icon" style="width: 20px; height: 20px; display: inline-block; vertical-align: middle;">
-  - Connect with me on [Facebook](https://facebook.com/theenthusiast.dev) <img src="https://img.icons8.com/?size=100&id=118497&format=png&color=000000" alt="Facebook Icon" style="width: 20px; height: 20px; display: inline-block; vertical-align: middle;">
-</div>
+- Connect with me on [Github](https://github.com/) <img src="https://img.icons8.com/?size=100&id=AZOZNnY73haj&format=png&color=000000" alt="Github Icon" style="vertical-align: middle; margin-bottom: 5px;">
+- Connect with me on [LinkedIn](https://linkedin.com/) <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="LinkedIn Icon" style="vertical-align: middle; margin-bottom: 5px;">
+- Connect with me on [Facebook](https://facebook.com/theenthusiast.dev) <img src="https://img.icons8.com/?size=100&id=118497&format=png&color=000000" alt="Facebook Icon" style="vertical-align: middle; margin-bottom: 5px;">
+
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
