@@ -13,9 +13,9 @@ I am a passionate AI engineer in Vietnam, driven by a curiosity for technology. 
 
 ## 📬 Get in Touch
 
-- Connect with me on [Github](https://) ![Github](https://img.icons8.com/?size=100&id=AZOZNnY73haj&format=png&color=000000)
-- Connect with me on [LinkedIn](https://) ![LinkedIn](https://img.icons8.com/?size=100&id=13930&format=png&color=000000)
-- Connect with me on [facebook](https://theenthusiast.dev) ![facebook](https://img.icons8.com/?size=100&id=118497&format=png&color=000000)
+- Connect with me on [Github](https://) <img src="https://img.icons8.com/?size=100&id=AZOZNnY73haj&format=png&color=000000" alt="Icon Description" style="width: 20px; height: 20px;">
+- Connect with me on [LinkedIn](https://) <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="Icon Description" style="width: 20px; height: 20px;"> 
+- Connect with me on [facebook](https://theenthusiast.dev) <img src="https://img.icons8.com/?size=100&id=118497&format=png&color=000000" alt="Icon Description" style="width: 20px; height: 20px;">
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
