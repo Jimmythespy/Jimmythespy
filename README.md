@@ -2,8 +2,8 @@
 
 I am a passionate AI engineer in Vietnam, driven by a curiosity for technology. My journey involves delving into computer science, exploring new ideas, and sharing my insights with the community.
 
-**Education:** Hanoi University of Science and Technology <br>
-**Major:** Information Systems and Communication
+**Education 🎓🎓:** Hanoi University of Science and Technology <br>
+**Major 📔📔:** Information Systems and Communication
 
 <br>
 <p align="center"><b>Visitor's Count</b></p>
